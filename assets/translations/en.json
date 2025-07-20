@@ -1,0 +1,80 @@
+{
+  "failures": {
+    "required": "this field is required",
+    "only letters": "Numbers are not allowed in this field",
+    "between3and50": "Minimum length of 3 and a maximum length of 50.",
+    "grater_date": {
+      "empty": "this field is required",
+      "grater_than_error": "this date should be grater than start date"
+    },
+    "phone": {
+      "empty": "Phone number is required",
+      "not_valid": "Please enter valid phone number ",
+      "not_valid_country": "Invalid code",
+      "phone_number": "Phone number",
+      "phoneNumber": "Phone number"
+    },
+    "no_internet": "You are currently offline.",
+    "internet_restored": "Your internet connection was restored.",
+    "not_verified": "You need to sign up first",
+    "server_error": "There is error in the server",
+    "time_out": "request time out, no server response",
+    "some_thing_wrong": "Some Thing Went Wrong!",
+    "unexpectedResponse": "Error while parsing data.",
+    "no_connection": "No Internet Connection",
+    "internet_try_again": "Please check your internet settings and try again",
+    "no_more_data": "No more data",
+    "Retry": "Retry"
+  },
+  "beneficiaries": {
+    "my_beneficiaries": "My Beneficiaries",
+    "five_beneficiaries_only": "You can add only 5 beneficiaries.",
+    "beneficiaries_empty": "No beneficiaries yet",
+    "add_beneficiary": "Tap the '+' button to add your first one.",
+    "new_beneficiary": "Add New Beneficiary",
+    "nickname": "Nickname",
+    "uae_number": "UAE Phone Number",
+    "save_beneficiary": "SAVE BENEFICIARY",
+    "delete": "delete",
+    "spent_month": "Spent this month: ",
+    "aed": "AED",
+    "top_up": "Top-up",
+    "confirm_delete": "Confirm Delete",
+    "confirm_change": "Confirm Update",
+    "are_sure_delete": "Are you sure you want to delete",
+    "are_sure_active": "Are you sure you want to active",
+    "are_sure_inActive": "Are you sure you want to InActive",
+    "added_successfully": "Beneficiary added successfully",
+    "deleted": " deleted successfully",
+    "updated": " updated successfully",
+    "add": "Add",
+    "limit5ActiveBeneficiaries": "You can't add more than 5 active beneficiaries."
+  },
+  "home": {
+    "hello": "Hello",
+    "prepaid": "Prepaid ",
+    "your_balance": "Your balance",
+    "beneficiaries": "View All Beneficiaries",
+    "top-up": "Top-up",
+    "select_beneficiary": "Select beneficiary",
+    "manage": "Manage",
+    "process_successful": "Top- up process successful"
+  },
+  "top_up": {
+    "insufficient_balance": "Insufficient balance. Total cost including AED 3 fee is AED {amount}.",
+    "total_limit_exceeded": "You’ve exceeded your total monthly top-up limit of AED 3000.",
+    "beneficiary_limit_exceeded": "This beneficiary has exceeded their monthly top-up limit of AED {limit}."
+  },
+  "Loading": "Loading ...",
+  "cancel": "Cancel",
+  "welcome": "Welcome",
+  "delete": "Delete",
+  "update": "Update",
+  "active": "Active",
+  "inActive": "Inactive",
+  "english": "English",
+  "arabic": "العربية"
+}
+
+
+

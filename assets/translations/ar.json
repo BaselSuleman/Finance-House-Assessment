@@ -1,0 +1,78 @@
+{
+  "failures": {
+    "required": "هذا الحقل مطلوب",
+    "only letters": "لا يُسمح بالأرقام في هذا الحقل",
+    "between3and50": "الحد الأدنى للطول 3 والحد الأقصى 50.",
+    "grater_date": {
+      "empty": "هذا الحقل مطلوب",
+      "grater_than_error": "يجب أن يكون هذا التاريخ أكبر من تاريخ البدء"
+    },
+    "phone": {
+      "empty": "رقم الهاتف مطلوب",
+      "not_valid": "يرجى إدخال رقم هاتف صالح",
+      "not_valid_country": "رمز غير صالح",
+      "phone_number": "رقم الهاتف",
+      "phoneNumber": "رقم الهاتف"
+    },
+    "no_internet": "أنت غير متصل حالياً بالإنترنت.",
+    "internet_restored": "تمت استعادة اتصال الإنترنت لديك.",
+    "not_verified": "يجب عليك التسجيل أولاً",
+    "server_error": "حدث خطأ في الخادم",
+    "time_out": "انتهت مهلة الطلب، لا يوجد استجابة من الخادم",
+    "some_thing_wrong": "حدث خطأ ما!",
+    "unexpectedResponse": "حدث خطأ أثناء معالجة البيانات.",
+    "no_connection": "لا يوجد اتصال بالإنترنت",
+    "internet_try_again": "يرجى التحقق من إعدادات الإنترنت والمحاولة مرة أخرى",
+    "no_more_data": "لا توجد بيانات إضافية",
+    "Retry": "إعادة المحاولة"
+  },
+  "beneficiaries": {
+    "my_beneficiaries": "المستفيدين لدي",
+    "five_beneficiaries_only": "يمكنك إضافة 5 مستفيدين فقط.",
+    "beneficiaries_empty": "لا يوجد مستفيدين حتى الآن",
+    "add_beneficiary": "انقر على زر '+' لإضافة أول مستفيد",
+    "new_beneficiary": "إضافة مستفيد جديد",
+    "nickname": "الاسم المستعار",
+    "uae_number": "رقم هاتف إماراتي",
+    "save_beneficiary": "حفظ المستفيد",
+    "delete": "حذف",
+    "spent_month": "المصروف هذا الشهر: ",
+    "aed": "درهم",
+    "top_up": "شحن",
+    "confirm_delete": "تأكيد الحذف",
+    "confirm_change": "تأكيد التحديث",
+    "are_sure_delete": "هل أنت متأكد أنك تريد الحذف",
+    "added_successfully": "تمت إضافة المستفيد بنجاح",
+    "are_sure_active": "هل أنت متأكد أنك تريد التفعيل",
+    "are_sure_inActive": "هل أنت متأكد أنك تريد إلغاء التفعيل",
+    "deleted": " تم الحذف بنجاح",
+    "updated": "تم التحديث بنجاح",
+    "add": "إضافة",
+    "limit5ActiveBeneficiaries": "لا يمكنك إضافة أكثر من 5 مستفيدين نشطين."
+
+  },
+  "home": {
+    "hello": "مرحباً",
+    "prepaid": "مدفوع مسبقاً ",
+    "your_balance": "رصيدك",
+    "beneficiaries": "عرض جميع المستفيدين",
+    "top-up": "شحن",
+    "select_beneficiary": "اختر مستفيد",
+    "manage": "إدارة",
+    "process_successful": "تمت عملية الشحن بنجاح"
+  },
+  "top_up": {
+    "insufficient_balance": "الرصيد غير كافٍ. إجمالي التكلفة مع رسوم 3 دراهم هو {amount} درهم.",
+    "total_limit_exceeded": "لقد تجاوزت الحد الشهري الإجمالي للشحن البالغ 3000 درهم.",
+    "beneficiary_limit_exceeded": "لقد تجاوز هذا المستفيد الحد الشهري للشحن البالغ {limit} درهم."
+  },
+  "Loading": "جاري التحميل...",
+  "cancel": "إلغاء",
+  "welcome": "أهلاً وسهلاً",
+  "delete": "حذف",
+  "update": "تعديل",
+  "active": "تفعيل",
+  "inActive": "إلغاء تفعيل",
+  "english": "English",
+  "arabic": "العربية"
+}
